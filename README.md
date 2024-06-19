@@ -4,6 +4,6 @@ Next, I explored correlations between nightly prices and various listing attribu
 Here are some KEY Takeaways:
 Location: Russian Hill boasts the highest prices, while Crocker Amazon offers budget stays.
 
-Room Type Insights: Shared rooms lead the pack in average price, followed by entire homes/apartments.
+Room Type Insights: Shared rooms lead the pack in average price, followed by entire homes/apartments. 
 
 Booking Trends: Bookings peak in February and during the fall season.
